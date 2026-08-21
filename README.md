@@ -389,7 +389,6 @@ Possible future extensions include
 
 **Hannah Fathi**
 
-M.Sc. Student in Artificial Intelligence  
 
 **Research Interests**
 
