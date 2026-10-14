@@ -387,18 +387,7 @@ Possible future extensions include
 
 # Author
 
-**Hannah Fathi**
-
-
-**Research Interests**
-
-- Computer Vision
-- Medical AI
-- Remote Sensing
-- Machine Learning
-- Kernel Methods
-- Explainable Artificial Intelligence (XAI)
-- Large Language Models (LLMs)
+**Hannah Fathi** : Computer Vision · Medical AI · Representation Learning · Explainable AI · Foundation Models
 
 ---
 
